@@ -17,4 +17,4 @@ Este proyecto utilizo el siguiente dataset
 1. **Employee Attrition Classification Dataset** *[https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset](#)*  
 
 ## 🖥️ Presentación  
-- 🎬 **Video Presentación YouTube**: *[Enlace al video](#)*  
+- 🎬 **Video Presentación YouTube**: *[https://youtu.be/18OLoQEF-cw](#)*  
