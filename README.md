@@ -14,7 +14,7 @@ Desarrollar y evaluar un modelo de aprendizaje supervisado capaz de predecir la 
 ## 📚 Dataset  
 Este proyecto utilizo el siguiente dataset
 
-1. **Employee Attrition Classification Dataset** *[https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset](#)*  
+1. **Employee Attrition Classification Dataset** *[Enlace](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset)*  
 
 ## 🖥️ Presentación  
-- 🎬 **Video Presentación YouTube**: *[https://youtu.be/18OLoQEF-cw](#)*  
+- 🎬 **Video Presentación YouTube**: *[Enlace](https://youtu.be/18OLoQEF-cw)*  
